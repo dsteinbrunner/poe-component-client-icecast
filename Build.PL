@@ -20,7 +20,7 @@ my $builder = Module::Build->new(
 	},
 	meta_merge => {
 		resources => {
-			repository => 'http://github.com/sharifulin/poe-component-client-icecast/tree',
+			repository => 'http://github.com/sharifulin/poe-component-client-icecast',
 		},
 		keywords => [
 			'POE',
